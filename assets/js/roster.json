@@ -1,0 +1,142 @@
+[
+
+    {
+      "level": 120,
+      "location": "South Africa",
+      "name": "Lexari",
+      "rank": 0,
+      "role": "DPS"
+    },
+    {
+      "level": 120,
+      "location": "Egypt",
+      "name": "Mapen",
+      "rank": 2,
+      "role": "Tank"
+    },
+    {
+      "level": 120,
+      "location": "South Africa",
+      "name": "Aysira",
+      "rank": 2,
+      "role": "DPS"
+    },
+    {
+      "level": 120,
+      "location": "South Africa",
+      "name": "Bentlee",
+      "rank": 2,
+      "role": "DPS"
+    },
+    {
+      "level": 120,
+      "location": "Egypt",
+      "name": "Deriki",
+      "rank": 2,
+      "role": "Tank"
+    },
+    {
+      "level": 120,
+      "location": "Egypt",
+      "name": "Refaralon",
+      "rank": 2,
+      "role": "DPS"
+    },
+    {
+      "level": 120,
+      "location": "South Africa",
+      "name": "Berzak",
+      "rank": 2,
+      "role": "Tank"
+    },
+    {
+      "level": 39,
+      "location": "France",
+      "name": "Locketo",
+      "rank": 2,
+      "role": "DPS"
+    },
+    {
+      "level": 120,
+      "location": "France",
+      "name": "Yirinae",
+      "rank": 3,
+      "role": "Tank"
+    },
+    {
+      "level": 120,
+      "location": "England",
+      "name": "Fyiona",
+      "rank": 3,
+      "role": "DPS"
+    },
+    {
+      "level": 120,
+      "location": "England",
+      "name": "Paizley",
+      "rank": 3,
+      "role": "Healer"
+    },
+    {
+      "level": 120,
+      "location": "Sweden",
+      "name": "Orla",
+      "rank": 3,
+      "role": "Healer"
+    },
+    {
+      "level": 120,
+      "location": "France",
+      "name": "Maurielle",
+      "rank": 3,
+      "role": "DPS"
+    },
+    {
+      "level": 120,
+      "name": "Winfrieda",
+      "rank": 3,
+      "role": "Healer"
+    },
+    {
+      "level": 120,
+      "location": "India",
+      "name": "Shikra",
+      "rank": 3,
+      "role": "DPS"
+    },
+    {
+      "level": 120,
+      "location": "England",
+      "name": "Shalassa",
+      "rank": 3,
+      "role": "DPS"
+    },
+    {
+      "level": 104,
+      "location": "France",
+      "name": "Marlene",
+      "rank": 3,
+      "role": "DPS"
+    },
+    {
+      "level": 69,
+      "location": "France",
+      "name": "Dabria",
+      "rank": 3,
+      "role": "DPS"
+    },
+    {
+      "level": 120,
+      "location": "Poland",
+      "name": "Aletheya",
+      "rank": 3,
+      "role": "DPS"
+    },
+    {
+      "level": 120,
+      "location": "South Africa",
+      "name": "Ginxx",
+      "rank": 3,
+      "role": "DPS"
+    }
+ ]
