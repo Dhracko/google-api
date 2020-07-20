@@ -22,14 +22,14 @@ var members = [  // Members details
   },
   {
     "level": 120,
-    "location": [51.0968582, 5.9690268],
+    "location": [51.0968582, 8.9690268],
     "name": "Bentlee",
     "rank": 2,
     "role": "DPS"
   },
   {
     "level": 120,
-    "location": [50.4974444, 3.345157],
+    "location": [50.4974444, 4.345157],
     "name": "Deriki",
     "rank": 2,
     "role": "Tank"
@@ -64,7 +64,7 @@ var members = [  // Members details
   },
   {
     "level": 120,
-    "location": [52.7602507, -0.8123259],
+    "location": [51.7602507, 0],
     "name": "Theomis",
     "rank": 6,
     "role": "Healer"
