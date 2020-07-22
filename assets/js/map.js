@@ -70,6 +70,30 @@ var members = [  // Members details
     "role": "Healer"
   }
 ];
+   var membersTank = "";   //define empty variables
+    var membersHealer = "";
+    var membersDps = "";
+
+
+for (i = 0; i < members.length; i++) {      //create a loop throught the members list
+    var membersRole = members[i].role;
+    var membersName = members[i].name;
+
+    
+    if (membersRole === "Tank") {           // Checks if the member role is a tank
+        membersTank += membersName += "<br>";
+
+    } else if (membersRole === "Healer") {   // Checks if the member role is a Healer
+        membersHealer += membersName += "<br>";
+
+    } else {                                 // the member role is a DPS
+        membersDps += membersName += "<br>";
+    }
+
+    document.getElementById("tank").innerHTML = membersTank;     //writes the list of tanks
+    document.getElementById("heal").innerHTML = membersHealer;   //writes the list of healers
+    document.getElementById("dmg").innerHTML = membersDps;       //writes the list of dps
+}
 
 
 function initMap() {
@@ -83,16 +107,16 @@ function initMap() {
 
     var labels = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 
- 
+ document.getElementById(tankLocations).onclick= function() {myFunction()}
  var locations = [];
-
+function myFunction() {
  for (i = 0; i < members.length; i++) {
             var coords = members[i].location;
             let coordsArray = {"lat":coords[0], "lng": coords[1]};
             locations.push(coordsArray);
-             console.log( locations);
         };         
-            
+};
+
     var markers = locations.map(function (location, i) {
         return new google.maps.Marker({
             position: location,
